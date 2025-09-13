@@ -167,14 +167,14 @@
       /* Blog Posts Styling */
 
       .blog-post-header h1 {
-        position: static !important;
-        z-index: auto !important;
-        top: auto !important;
-        left: auto !important;
+        position: static;
         font-size: 32px;
         font-weight: 700;
         margin: 0 0 10px 0;
         line-height: 1.2;
+        background: none;
+        transform: none;
+        transition: none;
       }
       
       .blog-posts {
@@ -264,6 +264,9 @@
         margin-bottom: 30px;
         border-bottom: 1px solid #e1e4e8;
         padding-bottom: 20px;
+        position: relative;
+        background-color: #fff;
+        z-index: 1;
       }
       
       .blog-post-meta {
