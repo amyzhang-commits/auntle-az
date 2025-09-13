@@ -2,7 +2,7 @@
 layout: post
 title: "And thus: Auntle"
 date: 2025-09-12
-image: /assets/img/auntle-intro.jpg
+image: /assets/img/auntle-intro.png
 tags: [AI, Health, Solo-Motherhood]
 featured_description: "The origin story of Auntle: from sugar withdrawal and pulse readings to building AI tools for solo mothers by choice. Why I'm documenting experiments in human-AI collaboration while preparing for intentional motherhood."
 ---
