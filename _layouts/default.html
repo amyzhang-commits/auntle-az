@@ -327,11 +327,21 @@
           height: 100px;
           margin: 0 auto 15px auto;
         }
+        /* Profile Name */
         .profile-section h1 {
-          font-size: 22px;
+          font-size: 28px;
+          margin: 10px 0 5px 0;
+          color: #333;
+          font-weight: 700;
         }
+        /* Job Title */
         .profile-section .job-title {
-          font-size: 16px;
+          font-size: 18px;
+          color: #666;
+          margin-bottom: 25px;
+          font-weight: 400;
+          font-style: italic;
+          text-transform: none;
         }
         .contact-info {
           display: flex;
@@ -395,7 +405,7 @@
         {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" alt="Profile Photo" />
         <h1>{{ site.title | default: "Auntle" }}</h1>
-        <p class="job-title">Adventures in Developing Tech, Inspired by the Solo Mom Journey | <br>Let's get auntle-logical 💪🦾</p>
+        <p class="job-title">Let's get auntle-logical 💪🦾</p>
         {% endif %}
         <!-- Contact Info Section -->
         <ul class="contact-info">
