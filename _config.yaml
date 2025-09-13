@@ -1,0 +1,7 @@
+title: "Amy Zhang" 
+description: "Adventures in Developing Tech, Inspired by the Solo Mom Journey. Let's get auntle-logical 💪🦾"
+logo: "/assets/img/helloworld_small.png"  # <- Update this filename when you upload your photo
+github_username: "amyzhang-commits"
+linkedin_username: "azhang2262"
+email: "amy.appearouette@gmail.com"  # <- This will display exactly as written
+theme: jekyll-theme-minimal
