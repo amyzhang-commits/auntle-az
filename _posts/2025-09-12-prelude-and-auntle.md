@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "And thus: Auntle"
+title: "And thus: Auntle 💫"
 date: 2025-09-12
 image: /assets/img/auntle-intro.png
 tags: [AI, Health, Solo-Motherhood]
@@ -32,6 +32,9 @@ Ahh, it's all in the plot twist.
 
 It is *I* who have been slow-poisoning *myself*... and with the single indulgence I thought permissible, after the all-out purge of alcohol and caffeine: sugar.  
 
+![Cakes](assets/img/last_dessert.png)  
+***FIG. A:***  *Eyes, look your last...*
+
 But we'll cut the sweets talk (heh)—I am in no way here to deliver a vendetta against sugar. This is all just to set-up for what has transpired in the circa 24 hours since the prognosis. Namely:  
 
 - rambling back and forth with ChatGPT while sprinting to the grocery store, inundating them with questions re: anti-dampness diet and my anxieties around seeing the light so belatedly, so close to my first round of egg freezing (aka oocyte freezing, as I take care to say when talking with Perplexity, who can otherwise get... quite perplexed)  
@@ -59,11 +62,11 @@ Of course, bombarding ChatGPT with my cryptic food koans yesterday while on the 
 
 I'm sharing project 'Auntle' in the humble hope that these experiments might signal to others, navigating among any number of similar territories:  
 
-- solo motherhood (and building AI support systems for intentional parenting) 👶
+- solo motherhood (and building AI support systems for intentional parenting) 🧑‍🧒
 - education technologies and raising the next generation of tech-literate, creative humans 🧠✨
 - curiosity and reflections about the evolving landscape of AI-human collaboration 🤖🤝
-- AI dev tinkering (RAG pipelines and Jupyter Lab notebooks everywhere! 📚 Also, lots of love for offline LLMs like Gemma3n 🫶) 
+- AI dev tinkering (RAG pipelines and Jupyter Lab notebooks everywhere 🛠️! 📚 Also, lots of love for offline LLMs like Gemma3n 🫶) 
 - data science and ML applications for everyday life 📊🔬
 - maybe even my fellow damp, cold Qi-afflicted people (*clammy high-5* 🙌). Truly though -- I have a Tai-Chi camera vision + phone accelerometer project in the works.... ⚖️📱
 
-Needless to say... Hello, World! 🌍 There's a lot going on, and I hope to see you around.
+Needless to say... Hello, World! 🌍 There's a lot going on, and I hope to see you around.👋
