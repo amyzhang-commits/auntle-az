@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Prelude & And thus: Auntle"
+title: "And thus: Auntle"
 date: 2025-09-12
 image: /assets/img/auntle-intro.jpg
-tags: [AI, Health, Solo-Motherhood, Experimental]
+tags: [AI, Health, Solo-Motherhood]
 featured_description: "The origin story of Auntle: from sugar withdrawal and pulse readings to building AI tools for solo mothers by choice. Why I'm documenting experiments in human-AI collaboration while preparing for intentional motherhood."
 ---
 
@@ -48,14 +48,16 @@ The truth is, I'm part of a rapidly growing demographic: single mothers by choic
 Of course, bombarding ChatGPT with my cryptic food koans yesterday while on the go ("almonds yes?", "why coconut water whyy??", "but carrots!") doesn't quite count as *creative collaboration with AI*, but for me, the moment does tap into a larger emerging pattern. One, I've found myself more empowered to be creative in my problem solving, however pedestrian they might be—to move through anxiety with action nonetheless. And most importantly, from these moments of AI becoming woven into a kind of support structure in my daily life, new ideas never fail to emerge...  
 
 ...Like how it'd be great to be able to hear an LLM's response read to me, but by a mediating 'presence,' so as to not get so hung up on making ChatGPT (et al) sound "more human" and ultimately losing whatever richness their textual voice already has. (Maybe we'll call it a *Courier* Transform—sorry not sorry, Fourier...)  
+
 ...Like how crucial it will be to improve speech-to-text models for supporting atypical prosody and recursive thought processes (* twiddles thumbs, averts gaze * ) for hands-free accessibility. (The question re: "whose coherence is messing with my vibe" looms large in my daily interactions, when entire sentences disappear, relegated to 'noise'.)
 
 I'm sharing project 'Auntle' in the humble hope that these experiments might signal to others, navigating among any number of similar territories:  
 
-- solo motherhood (and the pressing need for AI co-parenting tools)  
-- curious about the evolving landscape of AI-human collaboration  
-- AI dev tinkering (RAG pipelines everywhere! Also, lots of love for offline LLMs like Gemma3n) 
-- data science and ML applications for everyday life  
-- maybe even my fellow damp, cold Qi-afflicted people, moving through life like a haunted house (*clammy high-5*). Truly! I have a Tai-Chi camera vision + phone accelerometer project in the works....  
+- solo motherhood (and building AI support systems for intentional parenting) 👶
+- education technologies and raising the next generation of tech-literate, creative humans 🧠✨
+- curiosity and reflections about the evolving landscape of AI-human collaboration 🤖🤝
+- AI dev tinkering (RAG pipelines and Jupyter Lab notebooks everywhere! 📚 Also, lots of love for offline LLMs like Gemma3n 🫶) 
+- data science and ML applications for everyday life 📊🔬
+- maybe even my fellow damp, cold Qi-afflicted people (*clammy high-5* 🙌). Truly though -- I have a Tai-Chi camera vision + phone accelerometer project in the works.... ⚖️📱
 
-Needless to say... Hello, World! There's a lot going on, and I hope to see you around.
+Needless to say... Hello, World! 🌍 There's a lot going on, and I hope to see you around.
