@@ -7,8 +7,6 @@ tags: [AI, Health, Solo-Motherhood]
 featured_description: "The origin story of Auntle: from sugar withdrawal and pulse readings to building AI tools for solo mothers by choice. Why I'm documenting experiments in human-AI collaboration while preparing for intentional motherhood."
 ---
 
-# And thus: Auntle
-
 ## Prelude 🎼
 
 I am writing to you, my friend, with the confused aspect of a sloth who has just discovered espresso and taxes: dizzy with disquiet and jittery dread, but also half falling out of my chair with lethargy and ennui.  
