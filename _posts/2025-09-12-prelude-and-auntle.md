@@ -10,8 +10,7 @@ featured_description: "The origin story of Auntle: from sugar withdrawal and pul
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## Prelude 🎼
 
@@ -33,7 +32,7 @@ Ahh, it's all in the plot twist.
 It is *I* who have been slow-poisoning *myself*... and with the single indulgence I thought permissible, after the all-out purge of alcohol and caffeine: sugar.  
 
 ![Cakes]({{ "/assets/img/last_dessert.jpg" | relative_url }})  
-***FIG. A:***  *Eyes, look your last...*
+***FIG. A:***  *Adieu!*
 
 But we'll cut the sweets talk (heh)—I am in no way here to deliver a vendetta against sugar. This is all just to set-up for what has transpired in the circa 24 hours since the prognosis. Namely:  
 
