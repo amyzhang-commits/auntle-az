@@ -8,8 +8,6 @@ featured_description: "The origin story of Auntle: from sugar withdrawal and pul
 ---
 
 <br>
-<br>
-<br>
 
 
 ## Prelude 🎼
