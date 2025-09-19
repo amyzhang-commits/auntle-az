@@ -41,7 +41,7 @@ ASR is absolutely central to my interest in _hands-free accessibility_ with tech
 2. as if m typos arent bda eougnh arlaedy, I can't imagine them surviving the baby-cradling, toddler-chasing chapters of my life.
 
 
-Whisper—trained on **680,000 hours of multilingual data** by OpenAI—is already remarkably capable: it processes mel-frequency representations that approximate how humans perceive speech, and captures most utterances with striking fidelity.
+Whisper—trained on **680,000 hours** of multilingual data by OpenAI—is already remarkably capable: it processes mel-frequency representations that approximate how humans perceive speech, and captures most utterances with striking fidelity.
 
 ![CNN vs Whisper Spectrogram]({{ "/assets/img/CNN_v_Whisper_spectrogram.png" | relative_url }})
 ***FIG. A:***  *While CNN treats all frequencies equally, Whisper has learned to emphasize the frequency ranges where human vocal information is concentrated--hence the narrower, more focused band.*
@@ -50,7 +50,7 @@ But **fine-tuning remains crucial**, as I show in the notebook. Inevitably, bias
 
 So what happens when a voice doesn't fit those statistical norms? Be it someone new to English, someone who prefers not to speak English, someone just learning to speak at all (hello, lil' tot 🐣)...or someone who just ran out of rods to spin another plate and just needs to ramble a bit 🫣. In those last cases, **the ellipses and marginalia may actually carry the most signal.**
 
-## Precursor to the Fine-Tuning Experiment 📕
+## Precursor to the Fine-Tuning Experiment: Saluda AI 📚
 
 I first explored this transcription challenge with Whisper back in Week 3 of the bootcamp. The experiment was to develop an AI that remembers your book reactions and uses them to inform its responses—whether for brainstorming or emotional processing. I recorded myself reading passages that struck me and then riffed with a few thoughts.
 
