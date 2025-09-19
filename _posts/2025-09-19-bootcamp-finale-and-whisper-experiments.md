@@ -2,9 +2,9 @@
 layout: post
 title: "Bootcamp Finale & Whisper Experiments"
 date: 2025-09-19
-image: /assets/img/bootcamp_last_message.png
+image: /assets/img/post_2_spectrogram.png
 tags: [AI, Bootcamp, ASR, Accessibility, Fine-tuning]
-featured_description: "Wrapping up the AI Builders Bootcamp with reflections on fine-tuning Whisper for hands-free accessibility, discovering the dataset bottleneck, and stumbling into conversations about AI time-tracking solutions."
+featured_description: "From fine-tuning Whisper for hands-free accessibility to musing on datasets, bias, and bookish emotions — reflections at the close of my AI Builders Bootcamp."
 ---
 
 Buenas, todos! It's the very last day of the 6-week AI Builders Bootcamp I've been taking, led by the enviably articulate and insightful Shawhin Talebi. I just dropped my last message to the peer group I'd volunteered to lead throughout the course.
