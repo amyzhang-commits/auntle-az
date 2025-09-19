@@ -7,11 +7,15 @@ tags: [AI, Bootcamp, ASR, Accessibility, Fine-tuning]
 featured_description: "From fine-tuning Whisper for hands-free accessibility to musing on datasets, bias, and bookish emotions — reflections at the close of my AI Builders Bootcamp."
 ---
 
+<br>
+<br>
+<br>
+
 Buenas, todos! It's the very last day of the 6-week AI Builders Bootcamp I've been taking, led by the enviably articulate and insightful Shawhin Talebi. I just dropped my last message to the peer group I'd volunteered to lead throughout the course.
 
 ## Bootcamp Finale 📨
 
-![Bootcamp Last Message]({{ "/assets/img/bootcamp_last_message.png" | relative_url }})
+![Bootcamp Last Message]({{ "/assets/img/ai_bootcamp_peer_message.png" | relative_url }})
 
 (Rest of message below)
 
