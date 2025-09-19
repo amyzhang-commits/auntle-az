@@ -13,7 +13,7 @@ featured_description: "The origin story of Auntle: from sugar withdrawal and pul
 
 ## Prelude 🎼
 
-I am writing to you, my friend, with the confused aspect of a sloth who has just discovered espresso and taxes: dizzy with disquiet and jittery dread, but also half falling out of my chair with lethargy and ennui.  
+I am writing to you with the confused aspect of a sloth who has just discovered espresso and taxes: dizzy with disquiet and jittery dread, but also half falling out of my chair with lethargy and ennui.  
 
 Sugar withdrawal is mercilessly real.  
 
@@ -31,7 +31,7 @@ Ahh, it's all in the plot twist.
 It is *I* who have been slow-poisoning *myself*... and with the single indulgence I thought permissible, after the all-out purge of alcohol and caffeine: sugar.  
 
 ![Cakes]({{ "/assets/img/last_dessert.jpg" | relative_url }})  
-***FIG. A:***  *Adieu!*
+***FIG. A:***  Adieu! 😭
 
 But we'll cut the sweets talk (heh)—I am in no way here to deliver a vendetta against sugar. This is all just to set-up for what has transpired in the circa 24 hours since the prognosis. Namely:  
 
@@ -68,3 +68,5 @@ I'm sharing project 'Auntle' in the humble hope that these experiments might sig
 - maybe even my fellow damp, cold Qi-afflicted people (*clammy high-5* 🙌). Truly though -- I have a Tai-Chi camera vision + phone accelerometer project in the works.... ⚖️📱
 
 Needless to say... Hello, World! 🌍 There's a lot going on, and I hope to see you around.👋
+
+![PastPresentFuture]({{ "/assets/img/auntle-intro.png" | relative_url }})
