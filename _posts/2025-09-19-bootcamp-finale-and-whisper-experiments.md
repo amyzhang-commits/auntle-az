@@ -10,16 +10,15 @@ featured_description: "From fine-tuning Whisper for hands-free accessibility to 
 <br>
 <br>
 <br>
+<br>
 
 Buenas, todos! It's the very last day of the 6-week AI Builders Bootcamp I've been taking, led by the enviably articulate and insightful Shawhin Talebi. I just dropped my last message to the peer group I'd volunteered to lead throughout the course.
 
-## Bootcamp Finale 📨
+## Bootcamp Finale 🪶
 
-![Bootcamp Last Message]({{ "/assets/img/ai_bootcamp_peer_message.png" | relative_url }})
+> "Hello hello everyone! Can hardly believe today is the last session for the bootcamp — it flew by like the 5-hour data limit window before Claude boots you out 😂
 
-(Rest of message below)
-
-> "This week, I focused on a _tiny_ fine-tuning experiment — more about shoring up my understanding of foundation models than producing anything polished. Since I plan to make hands-free accessibility central to future projects, I worked with the open-source automatic speech recognition (ASR) model **Whisper**. What a time to be alive that these models are available as a baseline! By the second epoch, Whisper had already outpaced my little CNN model that was learning from scratch.
+> This week, I focused on a _tiny_ fine-tuning experiment — more about shoring up my understanding of foundation models than producing anything polished. Since I plan to make hands-free accessibility central to future projects, I worked with the open-source automatic speech recognition (ASR) model **Whisper**. What a time to be alive that these models are available as a baseline! By the second epoch, Whisper had already outpaced my little CNN model that was learning from scratch.
 
 > I wanted to fine-tune Whisper on a key voice marker I designed for an "AI reading/voice notes partner" (a week-3 project), but the dataset is still way too small. The big lesson this week: fine-tuning's bottleneck is almost always the dataset. While I didn't land a real fine-tuned application, I now have a clearer sense of what a fine-tuning plan would need.
 
@@ -43,6 +42,9 @@ ASR is absolutely central to my interest in _hands-free accessibility_ with tech
 
 
 Whisper—trained on **680,000 hours of multilingual data** by OpenAI—is already remarkably capable: it processes mel-frequency representations that approximate how humans perceive speech, and captures most utterances with striking fidelity.
+
+![CNN vs Whisper Spectrogram]({{ "/assets/img/CNN_v_Whisper_spectrogram.png" | relative_url }})
+***FIG. A:***  *While CNN treats all frequencies equally, Whisper has learned to emphasize the frequency ranges where human vocal information is concentrated--hence the narrower, more focused band.*
 
 But **fine-tuning remains crucial**, as I show in the notebook. Inevitably, bias emerges through the training data—Whisper's corpus leans heavily toward polished presentation speech, often in English, often by fluent speakers.
 
