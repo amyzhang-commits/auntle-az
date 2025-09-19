@@ -11,7 +11,7 @@ Buenas, todos! It's the very last day of the 6-week AI Builders Bootcamp I've be
 
 ## Bootcamp Finale 📨
 
-![Bootcamp Last Message](/assets/img/bootcamp_last_message.png)
+![Bootcamp Last Message]({{ "/assets/img/bootcamp_last_message.png" | relative_url }})
 
 (Rest of message below)
 
