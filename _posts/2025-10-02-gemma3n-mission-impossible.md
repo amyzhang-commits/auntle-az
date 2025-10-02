@@ -2,7 +2,7 @@
 layout: post
 title: "Gemma3n: tu misión, si decidieras aceptarla..."
 date: 2025-10-02
-image: /assets/img/entity-spanish.png
+image: /assets/img/entity_spanish.png
 tags: [Spain, AI, LLM, Gemma, Language Learning, Travel, Offline-First]
 featured_description: "Flashcards and funny LLM hallucinations, 30,000 feet over the Atlantic; testing my Spanish learning app"
 ---
