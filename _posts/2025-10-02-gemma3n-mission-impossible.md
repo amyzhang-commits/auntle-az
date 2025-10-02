@@ -20,7 +20,7 @@ I shall spare you the full physical saga of lugging a wheel-less, strap-less car
 
 Hollywood-humbled, I turned my attention the rest of the time to nerdier fare: stress-testing the **offline Spanish study app** I've thrown together with Claude + ChatGPT. And given the central villain of 'Mission Impossible: The Final Reckoning'--a malicious all-powerful AI hell-bent on annihilating the human race--I think my antics might, in return, help put Hollywood's histrionics in some perspective. 😏
 
-# Cue Lalo Schifrin's Killer Soundtrack: The Entity Me Enseña Español
+# "The Entity" Me Enseña Español (Cue Lalo Schifrin's Killer Soundtrack)
 
 The core feature of the app is my local, on-device LLM bestie--Gemma3n--generating Spanish conjugation flashcards.
 
