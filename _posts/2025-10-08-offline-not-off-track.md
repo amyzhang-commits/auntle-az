@@ -64,7 +64,7 @@ How the phone app now lives in browser memory like a ghost app that doesn’t ne
 5) **Gemma’s Verb Hallucinations:**  
 Ah, dios mio. This one’s part comedy, part crisis, as I shared in the previous post-- an entire language-learning app with Spanish speaking credentials as reliable as Professor Chang from Community. 
 ![[blog_4_chang.png]]({{ "/assets/img/blog_4_chang.png" | relative_url }})
-I mostly understand what’s happening, but what I'd like to retroactively understand is better planning around JSON schema, in this case for flashcards. Object attributes matter more than you’d think for filtering and downstream flexibility. For instance, we 'd originally forgotten to ask Gemma3n to include whether a verb was regular or irregular—essential for filtering. Tiny omission, big use-case blind spot. And because constructing the JSON schema is a large part of Gemma's task in this app, it'll be a good opportunity to see if the current prompts can be improved. 
+I mostly understand what’s happening, but what I'd like to retroactively understand is better planning around JSON schema, in this case for flashcards. It turns out, object attributes matter a great deal for downstream flexibility. For instance, I'd originally forgotten to ask Gemma3n to include whether a verb was regular or irregular—essential for filtering. Tiny omission, big use-case blind spot. And because constructing the JSON schema is a large part of Gemma's task in this app, it'll be a good opportunity to see if the current prompts can be improved. 
 
 ---
 
