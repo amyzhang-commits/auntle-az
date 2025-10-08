@@ -23,7 +23,7 @@ Like Indiana Jones rolling clear of a rapidly descending hundred-ton wall, two m
 
 First, I now know which fertility clinic I’ll be starting my single-mom-by-choice (_madre soltera por elección_) journey with—beginning with egg vitrification.  
 (More on this in a future post; for now, a round of applause to my friend Vero, the GIF queen, for finding this lil’ animation)
-![[blog_4_vero.png]]({{ "/assets/img/blog_4_vero.png" | relative_url }})
+<img src="{{ "/assets/img/blog_4_vero.png" | relative_url }}" alt="Egg vitrification animation" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
 
 And second… my little Spanish flashcard study app is officially _live_ — fully functional from a locally hosted, offline web platform on my laptop to offline access from my phone. 🤯 The only time these two interfaces need Wi-Fi is to high-five via a Railway-hosted back end and sync their local flashcard databases. 🙌!
 
@@ -72,7 +72,7 @@ In sum, the Spanish studying will happen! On Sunday, I went to a lovely art Meet
 
 ![[blog_4_LLMteam.png]]({{ "/assets/img/blog_4_LLMteam.png" | relative_url }})
 
-In the meantime, revisiting all this code will be worth it. This humble, hybrid offline architecture—open source wherever possible—feels like a real template for the kind of tools I want to build. And I know it's a long shot from an actual federated learning project, but...paso a paso, no es? 
+In the meantime, revisiting all this code will be worth it. This humble, hybrid offline architecture—open source wherever possible—feels like a real template for the kind of tools I want to build (and teach my kids and their friends to build). And I know it's a long shot from an actual federated learning project, but...paso a paso, no es? 
 
 For now, as someone spending _way_ more time on Madrid’s metro than expected (this city is basically Los Angeles with trains), I can tell you that studying my flashcards from my phone from the 6 line to Legazpi, being humbled by the verb _haber_ in present tense, felt like a strangely satisfying way to start Week 2.
 
