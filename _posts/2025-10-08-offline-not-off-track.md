@@ -40,13 +40,13 @@ Here's how it works (kudos to Claude for this diagram):
 
 So...no more excuses to not buckle down in the biblioteca, right? 🫣
 
+---
+
+### Technical Debt: Payback Time 💸 
+
 Before deep-diving into it all, I *am* intent on taking some time to really understand how this modular marvel even holds together. 😅 Copious work logs (aka conversations with Claude, Claude Code, and ChatGPT) await me. 
 
 For now, here’s the list of the things that I currently understand myself to **not** have understood—_yet._
-
----
-
-### My Technical Debt 💸
 
 1) **Cross-Origin Resource Sharing (CORS) + Ports:**  
 Why 8080 and 8000 kept arguing, why the front end and back end need different ports, and what the browser’s “bouncer” (CORS) was really trying to tell us. In the end, the fix was comically simple: adding explicit environment variables. I’ll need to dive deeper into Railway’s role here—it feels like a sort of Squarespace for apps rather than landing pages. Honestly, this might become my full-stack crash course.
