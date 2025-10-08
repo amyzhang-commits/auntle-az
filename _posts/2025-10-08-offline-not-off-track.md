@@ -2,7 +2,7 @@
 layout: post
 title: "Offline, But Not Off-Track"
 date: 2025-10-08
-image: /assets/img/blog_4_LLMteam.png
+image: /assets/img/blog_4_cover.png
 tags: [Spain, AI, Offline-First, Language Learning, App Development, Solo-Motherhood]
 featured_description: "A week in Madrid, diving into offline-first Spanish learning, LLM-powered flashcards, and the messy, magical architecture of a personal tech-meets-language experiment."
 ---
@@ -23,7 +23,7 @@ Like Indiana Jones rolling clear of a rapidly descending hundred-ton wall, two m
 
 First, I now know which fertility clinic I’ll be starting my single-mom-by-choice (_madre soltera por elección_) journey with—beginning with egg vitrification.  
 (More on this in a future post; for now, a round of applause to my friend Vero, the GIF queen, for finding this lil’ animation)
-![[blog_4_vero 1.mp4]]({{ "/assets/img/blog_4_vero_1.mp4" | relative_url }})
+![[blog_4_vero.png]]({{ "/assets/img/blog_4_vero.png" | relative_url }})
 
 And second… my little Spanish flashcard study app is officially _live_ — fully functional from a locally hosted, offline web platform on my laptop to offline access from my phone. 🤯 The only time these two interfaces need Wi-Fi is to high-five via a Railway-hosted back end and sync their local flashcard databases. 🙌!
 
