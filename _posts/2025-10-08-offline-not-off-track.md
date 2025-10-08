@@ -68,6 +68,8 @@ I mostly understand what’s happening, but what I'd like to retroactively under
 
 ---
 
+### En conclusión...🪶
+
 In sum, the Spanish studying will happen! On Sunday, I went to a lovely art Meetup and discovered that while I can chat and joke comfortably, I’m still relying on everyone’s goodwill. From that event, I now have an image of a piece by the wildly versatile artist, Alfredo Alcain, depicting me, hanging out on the Spanish B2-level plateau with my LLM squad 😅
 
 ![[blog_4_LLMteam.png]]({{ "/assets/img/blog_4_LLMteam.png" | relative_url }})
