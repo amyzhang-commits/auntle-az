@@ -12,12 +12,12 @@ featured_description: "A week in Madrid, diving into offline-first Spanish learn
 <br>
 <br>
 
-**Offline, but Not Off-Track**
+**🇪🇸 Madrid: Week One-iversary**
 
 Today marks the end of my first week in Madrid! An auspicious occasion commemorated by my eSim card ghosting me completely just as I was trekking into Centro! 😅 (This space cadette had completely forgotten that she’d only purchased a 7-day plan. My sincerest thanks to SailyBot for escalating my absent-minded panic to a human assistant 👌)
 
 ![[blog_4_saily.png]]({{ "/assets/img/blog_4_saily.png" | relative_url }})
-Fig A.* When you're trying to milk 2GB across 30 days, but you actually only have 1GB for 7. Result: a mere 30% of my quota used.😅
+*Fig A.* When you're trying to milk 2GB across 30 days, but you actually have 1GB for 7. Result: a mere 30% of my quota used.😅
 
 Like Indiana Jones rolling clear of a rapidly descending hundred-ton wall, two major tasks slid past their last obstacles just in time for this date.
 
