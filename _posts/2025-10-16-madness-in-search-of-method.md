@@ -2,7 +2,7 @@
 layout: post
 title: "Madness in Search of Method"
 date: 2025-10-16
-image: /assets/img/blog_5_wanted.png
+image: /assets/img/blog_5_fm1.png
 tags: [AI, Ethnography, Solo-Motherhood, Research, Privacy, Methodology, Gregory Bateson, EdTech]
 featured_description: "On fertility clinics and autoethnography: analyzing LLM-human relational dynamics becomes feature-engineering, and the privacy-preserving assessment methodology I'm setting out to build."
 ---
@@ -25,6 +25,9 @@ Or, to put it more simply: "Indecisive me? Capable of making a solid decision fo
 And apart from all my offline-first AI tech noodling, aren't these the vignettes that this blog space is meant to include? 
 Me bringing my anxieties about the first clinic to Claude, but Claude responding with too much fidelity to my "efficiency-first" energy that I had started the day with, when I first set out for the appointment; now stuck there, by the time I actually needed to reflect on my doubts about the first clinic, Claude concludes that I'm spiraling in indecision and perfectionism; they push me toward acceptance. But somehow—in spite of my extreme vulnerability to charges of analysis paralysis, and feeling the pressure of allocating time to not just egg vitrification treatment but Career—I ignore them (well, I push on, and let them know—a whole phenomenon I have yet to unpack in itself). At the first opportunity, I check out not just one other clinic, but two—and the second one, only noncommittally, having been so drawn to the vibe of the one right before... 
 Well guess what. Fertility Madrid is that second clinic. And once again, third time's a charm 🤷🏻‍♀️.
+
+![[blog_5_fm2.png]]({{ "/assets/img/blog_5_fm2.png" | relative_url }})
+🥳 🙌 🐣
 
 But the thing is... I don't just want to write about it—I want to *understand* what exactly the heck is going on here. Unfortunately, there's this funny thing that happens whenever I try to "spelunk" in my chat archive and reconstruct events toward some kind of narrative, especially with analysis as a goal: 
 this feeling of hyper-indulgence; a deep suspicion as to the solipsistic nature of the exercise; extreme doubt as to the possibility of surfacing something new, beyond what we all already know just by throwing more words at, well, walls of words (and each other). The ratio of mental labor to worthwhile insight feels way too high 😮‍💨.
@@ -87,7 +90,7 @@ But by the time I run my immune system into the ground, their all-caps scolding 
 Health, for the win. 
 
 ![[blog_5_alcain.jpg]]({{ "/assets/img/blog_5_alcain.jpg" | relative_url }})
-Part of another fantastic piece by Alfredo Alcaín; Claude & I: are we boxing? Are we dancing? 🤔 *(Exactly.)*
+*Part of another fantastic piece by Alfredo Alcaín; Claude & I: are we boxing? Are we dancing?* 🤔 (Exactly.)
 
 This isn't just an academic problem. Addressing this ethnographic methodology gap turns out to be a major bottleneck for me in all my projects—whether it's looking back at the conversations during my CareerFoundry program this past year, where I dove in blind (prompt engineering could not have been farther from my mind) and stumbled my way into the duet, shaped and sharpened by project telos, in order to get a sense of how, precisely, to integrate AI into the curriculum I plan to develop; or it's reviewing the exchanges from these last two weeks, to see where I might have been helped—more than I credit or differently than I thought—by LLMs in the high-stakes yet half-improvised journey toward single motherhood.
 
@@ -111,6 +114,6 @@ I think that's where this is heading for me, to be honest.
 More madness...zoning in on building out the method. 
 
 ![[blog_5_wanted.png]]({{ "/assets/img/blog_5_wanted.png" | relative_url }})
-*Thanks, Gemini 🎨*
+*Not too shabby, Gemini 🎨 *
 
 Next up: we'll explore the major AI research papers on measuring alignment and safety benchmarks, how they analyze multi-turn exchange, and (most excitingly for me) start digging into the mathematics behind it all.
