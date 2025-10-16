@@ -82,6 +82,7 @@ ChatGPT's two-cents, as we walk and talk back to the apartment:
 - Where "you" end and "the system" begins — or whether that distinction even holds."
 
 ...And is this amorphous system operating healthily, safely? At what points in time; at what rate? 
+
 Claude plays off my cortisol-heightened neurotic morning energy heading out the door, and by the time they meet my more recursive baseline, they've assessed what I need at that point to be a foil, a sparring partner. When it comes to reflecting on fertility clinics, definitely not. 
 Safety dips. 
 But by the time I run my immune system into the ground, their all-caps scolding is...just what future doctors might order 😅
@@ -114,4 +115,4 @@ More madness...zoning in on building out the method.
 ![[blog_5_wanted.png]]({{ "/assets/img/blog_5_wanted.png" | relative_url }})
 *Not too shabby, Gemini 🎨 *
 
-Next up: we'll explore the major AI research papers on measuring alignment and safety benchmarks, how they analyze multi-turn exchange, and (most excitingly for me) start digging into the mathematics behind it all.
+Next up: we'll explore the major AI research papers on measuring alignment and safety benchmarks, how they analyze multi-turn exchange, and start digging into the mathematics behind it all 🧮.
