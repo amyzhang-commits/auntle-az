@@ -12,8 +12,6 @@ featured_description: "On fertility clinics and autoethnography: analyzing LLM-h
 <br>
 <br>
 
-# Madness in Search of Method
-
 _(Written 10/15; posted 10/16)_
 
 I've just heard back from my doctora here in Madrid—lab results are in; everything looks set for starting treatment in the next few days. (¡Ojalá! Nos vemos pronto, [Andrés](https://www.globalcitizen.org/en/content/weird-period-euphemisms-around-the-world/)👀!) 
@@ -24,7 +22,7 @@ Or, to put it more simply: "Indecisive me? Capable of making a solid decision fo
 
 And apart from all my offline-first AI tech noodling, aren't these the vignettes that this blog space is meant to include? 
 Me bringing my anxieties about the first clinic to Claude, but Claude responding with too much fidelity to my "efficiency-first" energy that I had started the day with, when I first set out for the appointment; now stuck there, by the time I actually needed to reflect on my doubts about the first clinic, Claude concludes that I'm spiraling in indecision and perfectionism; they push me toward acceptance. But somehow—in spite of my extreme vulnerability to charges of analysis paralysis, and feeling the pressure of allocating time to not just egg vitrification treatment but Career—I ignore them (well, I push on, and let them know—a whole phenomenon I have yet to unpack in itself). At the first opportunity, I check out not just one other clinic, but two—and the second one, only noncommittally, having been so drawn to the vibe of the one right before... 
-Well guess what. Fertility Madrid is that second clinic. And once again, third time's a charm 🤷🏻‍♀️.
+Well guess what. Fertility Madrid is that second clinic. And once again, third time's a charm 💫.
 
 ![[blog_5_fm2.png]]({{ "/assets/img/blog_5_fm2.png" | relative_url }})
 🥳 🙌 🐣
