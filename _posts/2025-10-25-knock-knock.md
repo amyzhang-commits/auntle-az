@@ -26,17 +26,19 @@ I think a lot has happened this week, but frankly, all I can recall is the daily
 
 (Okay, I'm being a little dramatic about that mental hurdle; by day 2, I was already scripting in Spanish how to sheepishly admit to the nurse that she was right: *al fin, soy valiente!* 😅 But seriously, to give you a sense of how much I hate needles: I don't even carry around an epipen for my actual life-threatening food allergy. 😬)
 
-There is one other memory emerging from the endocrine-cranked mist: the intensely messy, haphazard process of moving forward on the epiphany I shared in the last blog post. Actually, forget for a moment building on the epiphany-- even just moving forward *from* the last post was a staggered affair. I had summarized the problem (so to speak) as follows: 
-
-> "If I might grossly infer from just three papers: it seems like anthropology and sociology, or at least as they are brought to bear upon the new field of AI in Education research, focus on **culture as the unstructured data of the human emotional response**. This anthropocentric framing leaves unexamined the rich, unstructured data that is **the conversational back-and-forth itself**. And yet that is precisely where **“culture contact”**—and therefore, **an emergent culture**—is taking place, to lean on cyberneticist and anthropologist Gregory Bateson. (Also, where are my **Actor-Network Theorists** at? Those dissertations are in the works, I’m sure. 🤓)"
-
-Where in the sesquipedalian sewage system did that come from?? 🚮 
-
-Also, just gotta love how I'm accusing anthropology of anthropocentrism (like, duh?), and moreover, without clarifying how I'm conceptualizing culture, it would be totally fair for someone to say, "Uhm, Amy, if the chat is 'culture contact', aren't you anthropomorphizing LLMs as being like a people?" 🙄
+There is one other memory emerging from the endocrine-cranked mist: the intensely messy, haphazard process of moving forward on the epiphany I shared in the last blog post. Actually, forget for a moment building on the epiphany-- even just moving forward *from* the last post was a staggered affair. 
 
 ## Hot Potato Fail 
 
-...Something I'm trying to push myself to do, specifically through this practice of blogging, is to learn how to write around (?) my uncertainty. Otherwise, sharing the journey, where I'm at as I build, would be impossible. (Perhaps my uncertainty will encounter the missing puzzle piece of someone else's certainty? 🤞 Perhaps the uncertainty can help someone else's uncertainty feel a little lighter 🫶 Just...don't ask me right now, not even half-way through this week's attempt. 🫠)
+Last week, I had summarized the problem (so to speak) as follows: 
+
+> "If I might grossly infer from just three papers: it seems like anthropology and sociology, or at least as they are brought to bear upon the new field of AI in Education research, focus on **culture as the unstructured data of the human emotional response**. This anthropocentric framing leaves unexamined the rich, unstructured data that is **the conversational back-and-forth itself**. And yet that is precisely where **“culture contact”**—and therefore, **an emergent culture**—is taking place, to lean on cyberneticist and anthropologist Gregory Bateson. (Also, where are my **Actor-Network Theorists** at? Those dissertations are in the works, I’m sure. 🤓)"
+
+⁉️ Where in the sesquipedalian sewage system did that come from?? 🚮 
+
+(*Also, just gotta love how I'm accusing anthropology of anthropocentrism (like, duh?), and moreover, without clarifying how I'm conceptualizing culture, it would be totally fair for someone to say, "Uhm, Amy, if the chat is 'culture contact', aren't you anthropomorphizing LLMs as being like a people?"* 🙄)
+
+...Look, something I'm trying to push myself to do, specifically through this practice of blogging, is to learn how to write around (?) my uncertainty. Otherwise, sharing the journey, where I'm at as I build, would be impossible. (Perhaps my uncertainty will encounter the missing puzzle piece of someone else's certainty? 🤞 Perhaps the uncertainty can help someone else's uncertainty feel a little lighter 🫶 Just...don't ask me right now, not even half-way through this week's attempt. 🫠)
 
 Here, the uncertainty radiating out of every space mark would seem to be that of how to articulate a rather dense set of ideas around technology, culture, and language that underpin my entire approach to AI and ethics-- ideas that come from not exactly the most mainstream of theorists when it comes to the general public. 
 Furthermore, these ideas have probably been digested and metabolized in weird ways by my academic, scavenger brain. 🦝 
@@ -55,6 +57,7 @@ It's time to test whether it can even hold the weight of the build-- by informin
 
 <img src="{{ "/assets/img/blog_6_molinos.jpg" | relative_url }}" alt="Me and Don Q, seeing things more clearly" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
 *Fig B: Don Q & I, getting a much better sense of what we're actually tackling*
+
 ---
 
 ## The REAL Gap
