@@ -73,6 +73,8 @@ They're quite different works: Olasik's comes closest to capturing the day-to-da
 
 It's that last observation that troubles me—not the anthropology belly-gazing/confessional work hazard in itself, but once the measurement instruments have been accounted for (a.k.a. the researcher)...where's the information? 
 
+*(Hey, Time-Traveling Amy here! Before you pummel through--or are pummeled by--the next paragraph, just know you can find my very deserved self-roast for this word salad in [next week's blog](https://www.auntle.com/2025/10/25/knock-knock.html)).*
+
 If I might grossly infer from just three papers: it seems like anthropology and sociology, or at least as they are brought to bear upon the new field of AI in Education research, focus on culture as the unstructured data of the human emotional response. This anthropocentric framing leaves unexamined the rich, unstructured data that is the conversational back-and-forth itself. 
 And yet that is precisely where "culture contact"—and therefore, an emergent culture—is taking place, to lean on cyberneticist and anthropologist Gregory Bateson.
 (Also, where are my Actor-Network Theorists at? Those dissertations are in the works, I'm sure. 🤓)
