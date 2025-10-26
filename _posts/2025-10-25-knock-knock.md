@@ -30,7 +30,7 @@ There is one other memory emerging from the endocrine-cranked mist: the intensel
 
 ## Hot Potato Fail 
 
-Last week, I had summarized the problem (so to speak) as follows: 
+Last week, I had summarized the issue I was noticing as follows (* preparatory cringe *): 
 
 > "If I might grossly infer from just three papers: it seems like anthropology and sociology, or at least as they are brought to bear upon the new field of AI in Education research, focus on **culture as the unstructured data of the human emotional response**. This anthropocentric framing leaves unexamined the rich, unstructured data that is **the conversational back-and-forth itself**. And yet that is precisely where **“culture contact”**—and therefore, **an emergent culture**—is taking place, to lean on cyberneticist and anthropologist Gregory Bateson. (Also, where are my **Actor-Network Theorists** at? Those dissertations are in the works, I’m sure. 🤓)"
 
