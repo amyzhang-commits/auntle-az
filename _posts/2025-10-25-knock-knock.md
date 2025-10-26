@@ -26,6 +26,9 @@ I think a lot has happened this week, but frankly, all I can recall is the daily
 
 (Okay, I'm being a little dramatic about that mental hurdle; by day 2, I was already scripting in Spanish how to sheepishly admit to the nurse that she was right: *al fin, soy valiente!* 😅 But seriously, to give you a sense of how much I hate needles: I don't even carry around an epipen for my actual life-threatening food allergy. 😬)
 
+![[blog_6_agujas.jpg]]({{ "/assets/img/blog_6_agujas.jpg" | relative_url }})
+🦈😰
+
 There is one other memory emerging from the endocrine-cranked mist: the intensely messy, haphazard process of moving forward on the epiphany I shared in the last blog post. Actually, forget for a moment building on the epiphany-- even just moving forward *from* the last post was a staggered affair. 
 
 ## Hot Potato Fail 
