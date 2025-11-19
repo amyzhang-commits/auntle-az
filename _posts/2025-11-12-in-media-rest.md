@@ -19,7 +19,7 @@ And sure, while the final wrap-up date could technically be considered two weeks
 - a fact for which I somehow had not prepared myself at all,
 - but of which, since October 30, I have become all too aware. 
 
-<img src="{{ "/assets/img/blog_7_mork.png" | relative_url }}" alt="Mork spaceship reference" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
+<img src="{{ "/assets/img/blog_7_mork_2.png" | relative_url }}" alt="Mork spaceship reference" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
 *Fig A. Yes, officialy the most niche reference I've ever made. Just a big Robin Williams fan 🫶*
 
 Indeed, the aftermath of the surgery has very much been "seatbelts-on-arms-and-legs-inside-the-vehicle-the-ride's-not-over-yet".... And honestly, going by the unforeseen eccentricities of my especially stimulated endocrine system--involving 4am Whodunnits like "crazy building radiator or estrogen-crash hot flash?"--today as a wrap-up date could still be considered ambiguous. 😬 
@@ -42,6 +42,9 @@ A pretty generic response to an unproductive observation on my part, but somehow
 
 **How often do we avoid starting something because we don't have the perfect plan yet? And then, once we finally start, how often do we beat ourselves up for not being further along?**
 
+![[blog_7_puente.jpg]]({{ "/assets/img/blog_7_puente.jpg" | relative_url }})
+*Fig B. Ah, crossing the in between... (one of the bridges at Parque Madrid Rio -- a favorite Madrid spot)*
+
 Both journeys, I launched into based on intuition more than facts—a strong but unarticulable sense of purpose, but no narrative points that would strongly recommend me for either undertaking. These were always going to be long roads, multi-step processes. 
 
 And of course, I "knew" that all along, intellectually...but in that moment at the clinic, I realized I'd been carrying some irrational expectations: Egg retrieval, Check. Perfect AI support system for raising kiddos? Check. 
@@ -56,6 +59,8 @@ In the next few months, I'll be bringing together everything I've learned from b
 While I'm reflecting on the data points from this retrieval journey, I'll be thinking about how to bring my AI teammates into the process. Agentic systems with MCP protocols! Offline models! Chain-of-reasoning! Machine Learning tool calls for collaborative pattern finding and anomaly detection! 
 
 Good things to fixate on at 4am instead of playing radiator-or-hot-flash detective. 😅
+
+![[blog_7_mork_ok.png]]({{ "/assets/img/blog_7_mork_ok.png" | relative_url }})
 
 ---
 
