@@ -2,7 +2,7 @@
 layout: post
 title: "In Media Res(t)"
 date: 2025-11-12
-image: /assets/img/blog_7_puente.jpg
+image: /assets/img/blog_7_mork_ok.png
 tags: [Solo-Motherhood, Egg Retrieval, AI, Fertility Journey, Reflection, Starting Messy]
 featured_description: "Wrapping up Round 1 of egg retrieval with mixed results, hormone chaos, and a doctor's offhand comment that somehow applied to both fertility treatment and building AI experiments"
 ---
@@ -34,7 +34,7 @@ She did mention that instead of the Progesterona pill--which plays a vital role 
 1) none of my questions were meant as an attack; 
 2) it gave me a chance to realize that I now have zero panic at the mention of injections. Old hat -- I'm officially a fearless pro! 😂
 
-As the meeting continues, my brain wanders to the ML experiments that must exist around optimizing egg retrieval—probably focusing on trigger shot timing. I start plotting how I'd bug Perplexity about this later, maybe even explore creating synthetic datasets to run my own modeling experiments. (Note to self: revisit that Google DeepMind project on GAN-generated data for wind turbines...)
+As the meeting continues, my brain wanders to the ML experiments that must exist around optimizing egg retrieval—probably focusing on trigger shot timing. I start plotting how I'd bug Perplexity about this later, maybe even explore creating synthetic datasets to run my own modeling experiments. (Note to self: revisit that Google DeepMind project on Generative Adversarial Network-generated data for wind turbines...)
 
 Apart from the medical info (and my smugness getting a cameo), the only other striking moment was when Dr. Ferrero responded to my fretting—about being older in a few months—with: "Yeah, but it's good, you've already started now."
 
