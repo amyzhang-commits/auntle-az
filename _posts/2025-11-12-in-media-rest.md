@@ -19,7 +19,7 @@ And sure, while the final wrap-up date could technically be considered two weeks
 - a fact for which I somehow had not prepared myself at all,
 - but of which, since October 30, I have become all too aware. 
 
-![[blog_7_mork.png]]({{ "/assets/img/blog_7_mork.png" | relative_url }})
+<img src="{{ "/assets/img/blog_7_mork.png" | relative_url }}" alt="Mork spaceship reference" style="max-width: 60%; height: auto; display: block; margin: 0 auto;">
 *Fig A. Yes, officialy the most niche reference I've ever made. Just a big Robin Williams fan 🫶*
 
 Indeed, the aftermath of the surgery has very much been "seatbelts-on-arms-and-legs-inside-the-vehicle-the-ride's-not-over-yet".... And honestly, going by the unforeseen eccentricities of my especially stimulated endocrine system--involving 4am Whodunnits like "crazy building radiator or estrogen-crash hot flash?"--today as a wrap-up date could still be considered ambiguous. 😬 
